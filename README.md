@@ -1,4 +1,4 @@
-=
+
 Python Game
 
 **Movement Instruction**
